@@ -1,1 +1,12 @@
-# Trabajo-de-Investigaci-n-Fomativa---MAC
+# Trabajo de Investigación Formativa
+### Matemática Aplicada a la Computación
+### Integrantes:
+>
+> Paredes Escobedo, Fernanda Anthoanette
+>
+>
+>
+>
+>
+
+
